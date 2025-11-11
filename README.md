@@ -83,6 +83,5 @@ Optimize images and lazy loading
 
 Thahseen A.S
 📍 Developer | AIML Student | Passionate about Web Development
-https://github.com/ThahseenAS-sadiq/
 ├── vite.config.js
 └── README.md
