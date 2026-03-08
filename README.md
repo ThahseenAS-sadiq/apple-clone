@@ -75,8 +75,6 @@ Add dark mode toggle
 
 Optimize images and lazy loading
 
-
-
 ---
 
 👨‍💻 Author
